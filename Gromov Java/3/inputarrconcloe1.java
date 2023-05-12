@@ -10,7 +10,7 @@ public class inputarrconcloe1 {
         for (int i = 0; i < size; i++) {
             array[i] = input.nextInt(); 
         }
-        System.out.println("Числа, кратные 3 в веденном массиве:");
+        System.out.println("Числа, кратные 3 в введенном массиве:");
         for (int i = 0; i < array.length; i++) {
             if (array[i] % 3 == 0) {
                 System.out.println(" " + array[i]);
