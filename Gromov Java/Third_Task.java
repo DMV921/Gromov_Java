@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class inputarrconcloe1 {
+public class Third_Task {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); 
         System.out.println("Введите длину массива: ");
