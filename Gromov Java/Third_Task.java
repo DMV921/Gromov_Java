@@ -6,7 +6,7 @@ public class Third_Task {
         System.out.println("Введите длину массива: ");
         int size = input.nextInt(); 
         int array[] = new int[size]; 
-        System.out.println("Введите через пробел количество элементов, равное выбранной длине массива, и нажмите Enter:");
+        System.out.println("Введите через пробел элементы, количественно равные выбранной длине массива, и нажмите Enter:");
         for (int i = 0; i < size; i++) {
             array[i] = input.nextInt(); 
         }
